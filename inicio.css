@@ -199,6 +199,8 @@ aside{
     height: 40vh;
     max-width: 980px;
     height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 aside .logo strong {
     color: white;

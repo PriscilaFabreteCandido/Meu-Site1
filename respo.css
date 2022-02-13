@@ -1,0 +1,49 @@
+@media(max-width: 960px){
+    html{
+        font-size: 90%;
+    }
+}
+@media(max-width: 760px){
+
+    html{
+        font-size: 70%;    
+              
+    }
+   
+   
+   .content-1{
+      padding-bottom: 5vh;
+       flex-wrap: wrap;   
+       
+
+   }
+   header{
+    height: 7vh;
+}
+ .flex{
+     flex-direction: column;
+     flex-wrap: wrap;
+     align-content: center;
+ }
+
+
+    
+    
+}
+
+@media(max-width: 590px){
+    html{
+        font-size: 70%;    
+              
+    }
+    .section-1{
+        flex-direction: column;
+        display: block;
+        
+    }
+    header{
+        height: 4vh;
+    }
+  
+ 
+}
